@@ -2,6 +2,8 @@
 
 # Using Zillow Housing Data to Forecast Home Values in Washington State
 
+![Photo by Ashlynn Murphy](https://github.com/SSGrasland/Zillow-Time-Series/blob/main/Images/ashlynn-murphy-m8SJzZ8ID7Q-unsplash.jpg)
+
 # Business Understanding
 Our client Steady has had great success with their sustainable housing community in King County, WA. They are looking to build a new community elsewhere in the state of Washington. They want the community to be affordable to first time home owners so they are looking at the best zip codes to invest in with homes that are 500,000 USD or less in value. 
 
